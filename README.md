@@ -1,1 +1,1 @@
-# capstone-pyrhon2022
+# capstone-python2022
