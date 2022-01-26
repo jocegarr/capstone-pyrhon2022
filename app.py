@@ -16,7 +16,7 @@ myheading4 = '- Increase in application submissions show a positive upward trend
 myheading5 = '- No red flags from credit decisions'
 tabtitle = 'dash tabs'
 sourceurl = 'https://dash.plot.ly/dash-core-components/tabs'
-githublink = 'https://github.com/austinlasseter/dash-multitab-simple'
+githublink = 'https://github.com/jocegarr/capstone-python2022'
 
 
 ########### Initiate the app
