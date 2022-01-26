@@ -20,6 +20,5 @@ fig_2
 
 tab_2_layout = html.Div([
     html.H1('Application Submissions'),
-    html.H5('Amounts in MM'),
     html.Div([
         dcc.Graph(id='Applications_by_Year', figure=fig_2)])])
